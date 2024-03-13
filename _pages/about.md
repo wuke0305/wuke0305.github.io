@@ -19,7 +19,7 @@ Research Interests
 
 Recent News
 ======
-* May 2023- I won 2023 PhD Societal Impact Dissertation Award at Boston University.
-* May 2023- Our work won 2023 STAT Madness All-Star Award.
-* Jan. 2022- My first-author paper “Metamaterial-enhanced, near-field readout platform for passive microsensor tags” was published at _Microsystems & Nanoengineering – Nature_.
-* Dec. 2021- My first-author paper “Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging” was published at _Advanced Materials_, and featured as cover image.
+* May 2023: I won 2023 PhD Societal Impact Dissertation Award at Boston University.
+* May 2023: Our work won 2023 STAT Madness All-Star Award.
+* Jan. 2022: My first-author paper “Metamaterial-enhanced, near-field readout platform for passive microsensor tags” was published at _Microsystems & Nanoengineering – Nature_.
+* Dec. 2021: My first-author paper “Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging” was published at _Advanced Materials_, and featured as cover image.
