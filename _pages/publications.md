@@ -9,11 +9,11 @@ More about my research can be found on Google Scholar profile and ResearchGate p
 
 2024
 ----
-1.	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang. “A Robust All-textile Near-field Body Area Network Based on Coaxially-shielded Metamaterial”,[arXiv:2402.13962](https://arxiv.org/abs/2402.13962)
+[1].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang. “A Robust All-textile Near-field Body Area Network Based on Coaxially-shielded Metamaterial”,[arXiv:2402.13962](https://arxiv.org/abs/2402.13962)
 
 2023
 ----
-2.	__K. Wu#__, X. Zhu#, S.W. Anderson, X. Zhang, “Wireless, Customizable Coaxially-shielded Coils for Magnetic Resonance Imaging”, [arXiv: 2312.12581](https://arxiv.org/abs/2312.12581)
+[2].	__K. Wu#__, X. Zhu#, S.W. Anderson, X. Zhang, “Wireless, Customizable Coaxially-shielded Coils for Magnetic Resonance Imaging”, [arXiv: 2312.12581](https://arxiv.org/abs/2312.12581)
 
 3.	__K. Wu__, X. Zhu, T.G. Bifano, S.W. Anderson, X. Zhang. “Computational-design Enabled Wearable and Tunable Metamaterials via Freeform Auxetics for Magnetic Resonance Imaging”, [arXiv:2311.13611]
 
