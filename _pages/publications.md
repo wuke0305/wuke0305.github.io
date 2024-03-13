@@ -9,7 +9,7 @@ More about my research can be found on [Google Scholar profile](https://scholar.
 
 2024
 ----
-[1].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang. “A Robust All-textile Near-field Body Area Network Based on Coaxially-shielded Metamaterial”,[arXiv:2402.13962](https://arxiv.org/abs/2402.13962)
+[1].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang. “A Robust All-textile Near-field Body Area Network Based on Coaxially-shielded Metamaterial”,[[arXiv:2402.13962]](https://arxiv.org/abs/2402.13962)
 
 2023
 ----
