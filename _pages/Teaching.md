@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Boston University, 2023
+* Boston University, 20235
   * Ph.D. in Mechanical Engineering
   * Advisor: [Prof. Xin Zhang](https://people.bu.edu/xinz/) 
 * Tsinghua University, 2016
