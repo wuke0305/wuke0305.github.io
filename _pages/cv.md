@@ -33,17 +33,6 @@ Professional Experience
   * 2013.09 - 2016.06: Research Assistant
   
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -56,6 +45,6 @@ Teaching
   * ENG ME 305: Mechanics of Materials
     * Undergraduate course, Boston University, Fall, 2019
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Journal Reviewer for Dalton Transactions, Sensors, Micromachines, electronics, Energies, Photonics, etc.
