@@ -4,7 +4,6 @@ title: "Teaching"
 author_profile: true
 redirect_from: 
   - /md/
-  - /Teaching.md
 ---
 
 * Guest Lecture
