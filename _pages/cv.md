@@ -21,31 +21,17 @@ Education
   * B.S. in Electrical Engineering and Automation
 
 
-Work experience
+Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Photonics Center, Boston University, Boston
+  * 2023.05 - present: Postdoctoral Associate
+* Mechanical Engineering, Boston University, Boston
+  * 2018.09 - 2023.05: Research Assistant
+* Beijing Risespace Tech. Co., Ltd., China
+  * 2016.07 - 2017.04: Hardware Engineer
+* Department of Microelectronics and Nanoelectronics, Tsinghua University, China
+  * 2013.09 - 2016.06: Research Assistant
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
