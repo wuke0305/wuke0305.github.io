@@ -4,6 +4,8 @@ layout: archive
  title: "Teaching"
 permalink: /Teaching/
 author_profile: true
+redirect_from:
+  - /Teaching
 ---
 * Guest Lecture
   * ENG ME 555: MEMS: Fabrication and Materials
