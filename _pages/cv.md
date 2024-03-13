@@ -13,10 +13,10 @@ Education
 ======
 * Boston University, 2023
   * Ph.D. in Mechanical Engineering
-  * Advisor: Prof. Xin Zhang
+  * Advisor: [Prof. Xin Zhang](https://people.bu.edu/xinz/) 
 * Tsinghua University, 2016
   * M.S. in Integrated Circuit Engineering
-  * Advisor: Prof. Zheyao Wang
+  * Advisor: [Prof. Zheyao Wang](http://main.ime.tsinghua.edu.cn/)
 * Chongqing University, 2013
   * B.S. in Electrical Engineering and Automation
 
