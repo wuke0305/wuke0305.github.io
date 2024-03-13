@@ -16,3 +16,10 @@ Research Interests
 * MEMS
 * Wearable MRI RF coils
 * Wireless powering and communication
+
+Recent News
+======
+* 2023 May, I won 2023 PhD Societal Impact Dissertation Award at Boston University.
+* 2023 May, Our work won 2023 STAT Madness All-Star Award.
+* 2022 Jan. My first-author paper “Metamaterial-enhanced, near-field readout platform for passive microsensor tags” was published at _Microsystems & Nanoengineering – Nature.
+* 2021 Dec. My first-author paper “Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging” was published at _Advanced Materials_, and featured as cover image.
