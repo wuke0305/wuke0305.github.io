@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Boston University, 2023
+  * Ph.D. in Mechanical Engineering
+  * Advisor: Prof. Xin Zhang
+* Tsinghua University, 2016
+  * M.S. in Integrated Circuit Engineering
+  * Advisor: Prof. Zheyao Wang
+* Chongqing University, 2013
+  * B.S. in Electrical Engineering and Automation
+
 
 Work experience
 ======
