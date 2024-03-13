@@ -1,12 +1,15 @@
+
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+ title: "Teaching"
+permalink: /Teaching/
 author_profile: true
 ---
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Guest Lecture
+  * ENG ME 555: MEMS: Fabrication and Materials
+    * Graduate course, Boston University, Spring, 2020
+* Teaching Assistant
+  * ENG ME 310: Instrumentation
+    * Undergraduate course, Boston University, Spring, 2019
+  * ENG ME 305: Mechanics of Materials
+    * Undergraduate course, Boston University, Fall, 2019
