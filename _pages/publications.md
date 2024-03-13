@@ -29,7 +29,8 @@ More about my research can be found on [Google Scholar profile](https://scholar.
 
 2021
 ----
-[8].	__K. Wu#__, X. Zhao#, T.G. Bifano, S. W. Anderson, X. Zhang, “Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging,” Advanced Materials (2021): 2109032. [DOI: 10.1002/adma.202109032] [Cover Image] [YouTube] [STAT] [Science Daily] [Medical Xpress] [Neuroscience News] [HealthImaging] [Medical Republic] [Dispositivos Medicos] [Tech Briefs] [Noticias de la Ciencia] [Technology Networks] [NewsBeezer]
+[8].	__K. Wu#__, X. Zhao#, T.G. Bifano, S. W. Anderson, X. Zhang, “Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging,” Advanced Materials (2021): 2109032. [[DOI: 10.1002/adma.202109032]](https://onlinelibrary.wiley.com/doi/10.1002/adma.202109032) [[Cover Image]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202270049) [[YouTube]](https://www.youtube.com/watch?v=clDsqm8l6Kw&t=1s&ab_channel=BostonUniversity)
+  *Media Outlets: [Science Daily] [Medical Xpress] [Neuroscience News] [HealthImaging] [Medical Republic] [Dispositivos Medicos] [Tech Briefs] [Noticias de la Ciencia] [Technology Networks] [NewsBeezer]
 
 2020
 ----
