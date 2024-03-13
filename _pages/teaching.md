@@ -1,12 +1,12 @@
-
 ---
-layout: archive
- title: "Teaching"
 permalink: /Teaching/
+title: "Teaching"
 author_profile: true
-redirect_from:
-  - /Teaching
+redirect_from: 
+  - /md/
+  - /Teaching.md
 ---
+
 * Guest Lecture
   * ENG ME 555: MEMS: Fabrication and Materials
     * Graduate course, Boston University, Spring, 2020
