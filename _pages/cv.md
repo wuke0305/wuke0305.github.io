@@ -25,7 +25,7 @@ Professional Experience
 ======
 * Photonics Center, Boston University, Boston
   * 2023.05 - present: Postdoctoral Associate
-* Mechanical Engineering, Boston University, Boston
+* Department of Mechanical Engineering, Boston University, Boston
   * 2018.09 - 2023.05: Research Assistant
 * Beijing Risespace Tech. Co., Ltd., China
   * 2016.07 - 2017.04: Hardware Engineer
