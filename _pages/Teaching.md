@@ -1,7 +1,7 @@
 ---
 layout: archive
-# title: "CVtest"
-permalink: /CVtest/
+# title: "Teaching"
+permalink: /Teaching/
 author_profile: true
 redirect_from:
   - /resume
