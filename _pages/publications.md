@@ -11,18 +11,19 @@ More about my research can be found on [Google Scholar profile](https://scholar.
 
 2024
 ----
-[1].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang. “A Robust All-textile Near-field Body Area Network Based on Coaxially-shielded Metamaterial”.[[arXiv:2402.13962]](https://arxiv.org/abs/2402.13962).
+[1].	__K. Wu__, X. Zhu, X. Zhao, S.W. Anderson, X. Zhang, “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging”. [[arXiv:2310.00153]](https://arxiv.org/abs/2310.00153).
+
+[2].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang, “A Robust All-textile Near-field Body Area Network Based on Coaxially-shielded Metamaterial”.[[arXiv:2402.13962]](https://arxiv.org/abs/2402.13962).
+
+[3].	__K. Wu#__, X. Zhu#, S.W. Anderson, X. Zhang, “Wireless, Customizable Coaxially-shielded Coils for Magnetic Resonance Imaging”. [[arXiv: 2312.12581]](https://arxiv.org/abs/2312.12581).
+
+[4].	__K. Wu__, X. Zhu, T.G. Bifano, S.W. Anderson, X. Zhang. “Computational-design Enabled Wearable and Tunable Metamaterials via Freeform Auxetics for Magnetic Resonance Imaging”. [[arXiv:2311.13611]](https://arxiv.org/abs/2311.13611).
+
+[5].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang, “Wearable Coaxially-shielded Metamaterial for Magnetic Resonance Imaging”. [[arXiv:2312.10018]](https://arxiv.org/abs/2312.10018).
+
 
 2023
 ----
-[2].	__K. Wu#__, X. Zhu#, S.W. Anderson, X. Zhang, “Wireless, Customizable Coaxially-shielded Coils for Magnetic Resonance Imaging”. [[arXiv: 2312.12581]](https://arxiv.org/abs/2312.12581).
-
-[3].	__K. Wu__, X. Zhu, T.G. Bifano, S.W. Anderson, X. Zhang. “Computational-design Enabled Wearable and Tunable Metamaterials via Freeform Auxetics for Magnetic Resonance Imaging”. [[arXiv:2311.13611]](https://arxiv.org/abs/2311.13611).
-
-[4].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang. “Wearable Coaxially-shielded Metamaterial for Magnetic Resonance Imaging”. [[arXiv:2312.10018]](https://arxiv.org/abs/2312.10018).
-
-[5].	__K. Wu__, X. Zhu, X. Zhao, S.W. Anderson, X. Zhang, “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging”. [[arXiv:2310.00153]](https://arxiv.org/abs/2310.00153).
-
 [6].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang, “Helmholtz Coil-Inspired Volumetric Wireless Resonator for Magnetic Resonance Imaging”, Advanced Materials Technologies, 2301053 (2023). [[DOI:10.1002/admt.202301053]](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202301053).
 
 2022
