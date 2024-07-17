@@ -21,7 +21,7 @@ Recent News
 ======
 * June 2024: My first author paper “Wireless, customizable coaxially shielded coils for magnetic resonance imaging” was published at [_Science Advances_](https://www.science.org/doi/full/10.1126/sciadv.adn5195).
 
-* April 2024: My first-author paper “Computational-Design Enabled Wearable and Tunable Metamaterials via Freeform Auxetics for Magnetic Resonance Imaging” was published at [_Advanced Science_](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400261), and featured as [cover image](https://onlinelibrary.wiley.com/doi/10.1002/advs.202470152).
+* April 2024: My first author paper “Computational-Design Enabled Wearable and Tunable Metamaterials via Freeform Auxetics for Magnetic Resonance Imaging” was published at [_Advanced Science_](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400261), and featured as [cover image](https://onlinelibrary.wiley.com/doi/10.1002/advs.202470152).
 
 * April 2024: My co-first author paper “Wearable Coaxially-Shielded Metamaterial for Magnetic Resonance Imaging” was published at [_Advanced Materials_](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202313692).
 
