@@ -14,7 +14,7 @@ Research Interests
 ======
 * Metamaterials
 * MEMS
-* Conformable MRI coils
+* Wearable & Conformable MRI coils
 * Wireless charging, sensing, and communication
 
 Recent News
