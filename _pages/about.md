@@ -19,7 +19,7 @@ Research Interests
 
 Recent News
 ======
-* Oct. 2023: My co-first author paper "Helmholtz Coil-Inspired Volumetric Wireless Resonator for Magnetic Resonance Imaging" was published at _Advanced Materials Technologies_.
+* Oct. 2023: My co-first author paper "Helmholtz Coil-Inspired Volumetric Wireless Resonator for Magnetic Resonance Imaging" was published at [_Advanced Materials Technologies_](https://onlinelibrary.wiley.com/doi/epdf/10.1002/admt.202301053).
 * May 2023: I won 2023 PhD Societal Impact Dissertation Award at Boston University.
 * May 2023: Our work won 2023 STAT Madness All-Star Award.
 * Jan. 2022: My first-author paper “Metamaterial-enhanced, near-field readout platform for passive microsensor tags” was published at _Microsystems & Nanoengineering – Nature_.
