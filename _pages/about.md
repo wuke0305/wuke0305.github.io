@@ -19,8 +19,18 @@ Research Interests
 
 Recent News
 ======
-* Oct. 2023: My co-first author paper "Helmholtz Coil-Inspired Volumetric Wireless Resonator for Magnetic Resonance Imaging" was published at [_Advanced Materials Technologies_](https://onlinelibrary.wiley.com/doi/epdf/10.1002/admt.202301053).
+* June 2024: My first-author paper “Wireless, customizable coaxially shielded coils for magnetic resonance imaging” was published at [_Science Advances_](https://www.science.org/doi/full/10.1126/sciadv.adn5195).
+
+* April 2024: My first-author paper “Computational-Design Enabled Wearable and Tunable Metamaterials via Freeform Auxetics for Magnetic Resonance Imaging” was published at [_Advanced Science_](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400261), and featured as [cover image] (https://onlinelibrary.wiley.com/doi/10.1002/advs.202470152).
+
+* April 2024: My co-first author paper “Wearable Coaxially-Shielded Metamaterial for Magnetic Resonance Imaging” was published at [_Advanced Materials_](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202313692).
+
+* Oct. 2023: My co-first author paper "Helmholtz Coil-Inspired Volumetric Wireless Resonator for Magnetic Resonance Imaging" was published at [_Advanced Materials Technologies_](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202301053).
+ 
 * May 2023: I won 2023 PhD Societal Impact Dissertation Award at Boston University.
-* May 2023: Our work won 2023 STAT Madness All-Star Award.
-* Jan. 2022: My first-author paper “Metamaterial-enhanced, near-field readout platform for passive microsensor tags” was published at _Microsystems & Nanoengineering – Nature_.
-* Dec. 2021: My first-author paper “Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging” was published at _Advanced Materials_, and featured as cover image.
+
+* May 2023: Our work won [2023 STAT Madness All-Star Award](https://www.bu.edu/articles/2023/xin-zhang-wins-stat-madness-2023-all-star-award/).
+* 
+* Jan. 2022: My first-author paper “Metamaterial-enhanced, near-field readout platform for passive microsensor tags” was published at [_Microsystems & Nanoengineering – Nature_](https://www.nature.com/articles/s41378-022-00356-4).
+* 
+* Dec. 2021: My first-author paper “Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging” was published at [_Advanced Materials_](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202109032), and featured as [cover image](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202270049).
