@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-![ceshi](images/ceshi.png)
+![ceshi](ceshi.png)
 
 
 
