@@ -5,14 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-  Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![ceshi](ceshi.png)  |   ![ceshi](ceshi2.png)
-
-
-
 More about my research can be found on [Google Scholar profile](https://scholar.google.com/citations?user=gCnzlpcAAAAJ&hl=en) and [ResearchGate profile](https://www.researchgate.net/profile/Ke-Wu-48/research).
+
+
 
 (# contributed equally )
 
