@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-![ceshi](ceshi.png)
+
+  Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![ceshi](ceshi.png)  |   ![ceshi](ceshi2.png)
 
 
 
