@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](1.jpg)  |  ![](2.jpg)
 
