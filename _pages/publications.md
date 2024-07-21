@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 :--------:|:--------:|:--------:|:--------:|:--------:|:--------:
-![1](Figure for github_1.png)([https://link1.com](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201970343))  |  ![2](Figure for github_2.png)  |  ![3](Figure for github_3.png)  |  ![4](Figure for github_4.png)  |  ![5](Figure for github_5.png)  |  ![6](Figure for github_6.png)
+![1](Figure for github_1.png)(https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201970343)  |  ![2](Figure for github_2.png)  |  ![3](Figure for github_3.png)  |  ![4](Figure for github_4.png)  |  ![5](Figure for github_5.png)  |  ![6](Figure for github_6.png)
 
 More about my research can be found on [Google Scholar profile](https://scholar.google.com/citations?user=gCnzlpcAAAAJ&hl=en) and [ResearchGate profile](https://www.researchgate.net/profile/Ke-Wu-48/research).
 
