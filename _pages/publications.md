@@ -4,8 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-| ![Image1](1.jpg) {width=150px} | ![Image2](2.jpg) {width=150px} | ![Image3](3.jpg) {width=150px} | ![Image4](4.jpg) {width=150px} | ![Image5](5.jpg) {width=150px} | ![Image6](6.jpg) {width=150px} |
-|-----------|-----------|-----------|-----------|-----------|-----------|
+| ![Image1](1.jpg){width=150px} | ![Image2](2.jpg){width=150px} | ![Image3](3.jpg){width=150px} | ![Image4](4.jpg){width=150px} | ![Image5](5.jpg){width=150px} | ![Image6](6.jpg){width=150px} |
+|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+
 
 
 More about my research can be found on [Google Scholar profile](https://scholar.google.com/citations?user=gCnzlpcAAAAJ&hl=en) and [ResearchGate profile](https://www.researchgate.net/profile/Ke-Wu-48/research).
