@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-| ![Image1](Figure for github_1.png){width=150px} | ![Image2](Figure for github_2.png){width=150px} | ![Image3](Figure for github_3.png){width=150px} | ![Image4](Figure for github_4.png){width=150px} | ![Image5](Figure for github_5.png){width=150px} | ![Image6](Figure for github_6.png){width=150px} |
+| ![Image1](Figure for github_1.png) | ![Image2](Figure for github_2.png) | ![Image3](Figure for github_3.png) | ![Image4](Figure for github_4.png) | ![Image5](Figure for github_5.png) | ![Image6](Figure for github_6.png) |
 |------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 
 
