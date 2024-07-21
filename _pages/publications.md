@@ -4,9 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![1](Figure for github_1.png)  |  ![2](Figure for github_2.png)
+| ![Image1](Figure for github_1.png){width=150px} | ![Image2](Figure for github_2.png){width=150px} | ![Image3](Figure for github_3.png){width=150px} | ![Image4](Figure for github_4.png){width=150px} | ![Image5](Figure for github_5.png){width=150px} | ![Image6](Figure for github_6.png){width=150px} |
+|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 
 
 More about my research can be found on [Google Scholar profile](https://scholar.google.com/citations?user=gCnzlpcAAAAJ&hl=en) and [ResearchGate profile](https://www.researchgate.net/profile/Ke-Wu-48/research).
