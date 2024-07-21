@@ -6,7 +6,7 @@ author_profile: true
 ---
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](Figure for github_1.png)  |  ![](Figure for github_2.png)
+![1](Figure for github_1.png)  |  ![2](Figure for github_2.png)
 
 
 More about my research can be found on [Google Scholar profile](https://scholar.google.com/citations?user=gCnzlpcAAAAJ&hl=en) and [ResearchGate profile](https://www.researchgate.net/profile/Ke-Wu-48/research).
