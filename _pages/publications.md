@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-| ![Image1](1.jpg){width=15px} | ![Image2](1.jpg){width=15px} | ![Image3](1.jpg){width=15px} | ![Image4](1.jpg){width=15px} | ![Image5](1.jpg){width=15px} | ![Image6](1.jpg){width=15px} |
+| ![Image1](1.jpg){width=15px} | ![Image2](1.jpg){width=30px} | ![Image3](1.jpg){width=15px} | ![Image4](1.jpg){width=15px} | ![Image5](1.jpg) {width=15px} | ![Image6](1.jpg) {width=15px} |
 |------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 
 
