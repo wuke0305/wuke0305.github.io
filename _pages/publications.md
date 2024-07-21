@@ -4,9 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-| ![Image1](Figure for github_1.png) | ![Image2](Figure for github_2.png) | ![Image3](Figure for github_3.png) | ![Image4](Figure for github_4.png) | ![Image5](Figure for github_5.png) | ![Image6](Figure for github_6.png) |
-|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![1](Figure for github_1.png)  |  ![2](Figure for github_2.png)
 
 More about my research can be found on [Google Scholar profile](https://scholar.google.com/citations?user=gCnzlpcAAAAJ&hl=en) and [ResearchGate profile](https://www.researchgate.net/profile/Ke-Wu-48/research).
 
