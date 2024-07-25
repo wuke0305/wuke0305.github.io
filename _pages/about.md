@@ -8,16 +8,16 @@ redirect_from:
 ---
 I am currently a postdoctoral researcher at the Photonics Center at Boston University, where I earned my Ph.D. degree in 2023. Prior to this, I obtained my Master’s and Bachelor’s degrees from Tsinghua University in 2016 and Chongqing University in 2013, respectively. 
 
-My research primarily revolves around the development of metamaterials aimed at manipulating and editing electric and magnetic fields in both temporal and spatial dimensions. I investigate methodologies that integrate metamaterials, microelectromechanical systems (MEMS), algorithm-enabled structural design, and electronics to engineer mechanically adaptive devices and systems. These innovations find applications in various near-field based domains, including magnetic resonance imaging, wireless powering, sensing, and communicating.
+My research primarily revolves around the development of metamaterials aimed at manipulating and editing electric and magnetic fields in both temporal and spatial dimensions. I investigate methodologies that integrate metamaterials, microelectromechanical systems (MEMS), algorithm-enabled structural design, and electronics to engineer mechanically adaptive devices and systems. These innovations find applications in various near-field based domains, including magnetic resonance imaging, wireless powering, sensing, and reading.
 
 I have authored/co-authored around 20 peer-reviewed articles published in renowned journals such as Science Advances, Advanced Materials, Advanced Science, Microsystem & Nanoengineering, among others. My work has been featured in various popular media outlets, such as Science Daily, Medical Republic, Healthcare-in-Europe, Medhealth Outlook, Physics World, Phys.org. 
 
 Research Interests
 ======
 * Metamaterials
-* MEMS
+* Microelectromechanical systems (MEMS)
 * Wearable & Conformable MRI coils
-* Wireless charging, sensing, and communication
+* Wireless powering, sensing, and reading
 
 Recent News
 ======
