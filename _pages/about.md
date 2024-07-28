@@ -21,7 +21,7 @@ Research Interests
 
 Recent News
 ======
-* July 2024: We have been selected as an honoree for the [_2024 Fast Company Innovation by Design Awards_](https://www.fastcompany.com/91129760/materials-innovation-by-design-2024).
+* July 2024: We have been selected as an honoree for the [2024 Fast Company Innovation by Design Awards](https://www.fastcompany.com/91129760/materials-innovation-by-design-2024).
 
 * July 2024: My co-first author paper “[A robust near-field body area network based on coaxially-shielded textile metamaterial](https://arxiv.org/abs/2402.13962)” was accepted by _Nature Communications_.
 
