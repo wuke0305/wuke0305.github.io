@@ -21,6 +21,10 @@ Research Interests
 
 Recent News
 ======
+* July 2024: We have been selected as an honoree for the [_2024 Fast Company Innovation by Design Awards_](https://www.fastcompany.com/91129760/materials-innovation-by-design-2024).
+
+* July 2024: My co-first author paper “[A robust near-field body area network based on coaxially-shielded textile metamaterial](https://arxiv.org/abs/2402.13962)” was accepted by _Nature Communications_.
+
 * June 2024: My first author paper “Wireless, customizable coaxially shielded coils for magnetic resonance imaging” was published at [_Science Advances_](https://www.science.org/doi/full/10.1126/sciadv.adn5195).
 
 * April 2024: My first author paper “Computational-Design Enabled Wearable and Tunable Metamaterials via Freeform Auxetics for Magnetic Resonance Imaging” was published at [_Advanced Science_](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400261), and featured as [cover image](https://onlinelibrary.wiley.com/doi/10.1002/advs.202470152).
