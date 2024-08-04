@@ -23,7 +23,7 @@ Recent News
 ======
 * July 2024: We have been selected as an honoree for the [2024 Fast Company Innovation by Design Awards](https://www.fastcompany.com/91129760/materials-innovation-by-design-2024).
 
-* July 2024: My co-first author paper “[A robust near-field body area network based on coaxially-shielded textile metamaterial](https://arxiv.org/abs/2402.13962)” was published at [_Nature Communications_](https://www.nature.com/articles/s41467-024-51061-x).
+* July 2024: My co-first author paper “A robust near-field body area network based on coaxially-shielded textile metamaterial” was published at [_Nature Communications_](https://www.nature.com/articles/s41467-024-51061-x).
 
 * June 2024: My first author paper “Wireless, customizable coaxially shielded coils for magnetic resonance imaging” was published at [_Science Advances_](https://www.science.org/doi/full/10.1126/sciadv.adn5195).
 
