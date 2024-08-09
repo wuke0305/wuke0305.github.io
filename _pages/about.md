@@ -29,7 +29,7 @@ Recent News
 
 * April 2024: My first author paper “Computational-Design Enabled Wearable and Tunable Metamaterials via Freeform Auxetics for Magnetic Resonance Imaging” was published at [_Advanced Science_](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400261), and featured as [cover image](https://onlinelibrary.wiley.com/doi/10.1002/advs.202470152).
 
-* April 2024: My co-first author paper “Wearable Coaxially-Shielded Metamaterial for Magnetic Resonance Imaging” was published at [_Advanced Materials_](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202313692).
+* April 2024: My co-first author paper “Wearable Coaxially-Shielded Metamaterial for Magnetic Resonance Imaging” was published at [_Advanced Materials_](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202313692), and featured as [cover image](https://onlinelibrary.wiley.com/doi/10.1002/adma.202470244).
 
 * Oct. 2023: My co-first author paper "Helmholtz Coil-Inspired Volumetric Wireless Resonator for Magnetic Resonance Imaging" was published at [_Advanced Materials Technologies_](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202301053).
  
