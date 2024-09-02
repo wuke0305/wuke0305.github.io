@@ -41,5 +41,3 @@ Recent News
 
 * Dec. 2021: My first author paper “Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging” was published at [_Advanced Materials_](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202109032), and featured as [cover image](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202270049).
 
-
-<a href="https://www.revolvermaps.com/livestats/53bohlweala/"><img src="//rf.revolvermaps.com/w/3/s/a/0/40/2/ffffff/010020/aa0000/53bohlweala.png" alt="Stats" style="border:0;"></a>
