@@ -21,7 +21,9 @@ Research Interests
 
 Recent News
 ======
-* July 2024: We have been selected as an honoree for the [2024 Fast Company Innovation by Design Awards](https://www.fastcompany.com/91129760/materials-innovation-by-design-2024).
+* November 2024: My co-first author paper “Metamaterial-enabled Hybrid Receive Coil for Enhanced Magnetic Resonance Imaging Capabilities” was published at [_Advanced Science_](https://onlinelibrary.wiley.com/doi/10.1002/advs.202410907).
+
+*  July 2024: We have been selected as an honoree for the [2024 Fast Company Innovation by Design Awards](https://www.fastcompany.com/91129760/materials-innovation-by-design-2024).
 
 * July 2024: My co-first author paper “A robust near-field body area network based on coaxially-shielded textile metamaterial” was published at [_Nature Communications_](https://www.nature.com/articles/s41467-024-51061-x).
 
