@@ -11,7 +11,7 @@ I am currently a postdoctoral researcher at the Photonics Center at Boston Unive
 My research focuses on developing metamaterials to manipulate and edit electric and magnetic fields in both temporal and spatial dimensions. I explore methodologies that integrate metamaterials, electronics, sensors, microelectromechanical systems (MEMS), algorithm-driven reconfigurable structures to engineer human-centered, mechanically-adaptive functional devices and systems that interact seamlessly with the human body, advancing healthcare technologies including clinical MRI, wireless powering, and wearable sensing.
 
 
-I have first and co-first authored publications in renowned journals such as _Science Advances_, _Nature Communications_, _Advanced Materials_, _Advanced Science_, _Microsystem & Nanoengineering_, and others. My work has been featured in over 100 media outlets, such as _Science Daily_, _Medical Republic_, _Healthcare-in-Europe_, _Medhealth Outlook_, _Physics World_, _Phys.org_. 
+I have served as the first and co-first author on publications in prestigious journals, including _Science Advances_, _Nature Communications_, _Advanced Materials_, _Advanced Science_, _Microsystem & Nanoengineering_. My research has received widespread recognition, with coverage in over 100 media outlets such as _Science Daily_, _Medical Republic_, _Healthcare-in-Europe_, _Medhealth Outlook_, _Physics World_, and _Phys.org_. 
 
 Research Interests
 ======
