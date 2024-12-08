@@ -22,6 +22,8 @@ Research Interests
   
 Recent News
 ======
+* December 2024: My first author paper “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging” was accepted by [_Research_] (https://arxiv.org/abs/2310.00153).
+
 * November 2024: My co-first author paper “Metamaterial-enabled Hybrid Receive Coil for Enhanced Magnetic Resonance Imaging Capabilities” was published at [_Advanced Science_](https://onlinelibrary.wiley.com/doi/10.1002/advs.202410907).
 
 *  July 2024: We have been selected as an honoree for the [2024 Fast Company Innovation by Design Awards](https://www.fastcompany.com/91129760/materials-innovation-by-design-2024).
