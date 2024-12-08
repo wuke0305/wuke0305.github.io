@@ -16,9 +16,9 @@ More about my research can be found on [Google Scholar profile](https://scholar.
 
 2024
 ----
-[17].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang, “Metamaterial-Enabled Hybrid Receive Coil for Enhanced Magnetic Resonance Imaging Capabilities”, _Advanced Science_ 15(1), p.6589 (2024). [[DOI:10.1002/advs.202410907]](https://doi.org/10.1002/advs.202410907)
+[17].	__K. Wu__, X. Zhu, X. Zhao, S.W. Anderson, X. Zhang, “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging”, _Research_ (accepted, in production) [[arXiv:2310.00153]](https://arxiv.org/abs/2310.00153).
 
-[16].	__K. Wu__, X. Zhu, X. Zhao, S.W. Anderson, X. Zhang, “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging”. [[arXiv:2310.00153]](https://arxiv.org/abs/2310.00153).
+[16].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang, “Metamaterial-Enabled Hybrid Receive Coil for Enhanced Magnetic Resonance Imaging Capabilities”, _Advanced Science_ 15(1), p.6589 (2024). [[DOI:10.1002/advs.202410907]](https://doi.org/10.1002/advs.202410907)
 
 [15].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang, “A Robust All-textile Near-field Body Area Network Based on Coaxially-shielded Metamaterial”, _Nature Communications_ 15(1), p.6589 (2024). [[DOI:10.1038/s41467-024-51061-x]](https://www.nature.com/articles/s41467-024-51061-x#citeas)
 
