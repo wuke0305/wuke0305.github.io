@@ -16,7 +16,7 @@ More about my research can be found on [Google Scholar profile](https://scholar.
 
 2024
 ----
-[17].	__K. Wu__, X. Zhu, X. Zhao, S.W. Anderson, X. Zhang, “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging”, _Research_ (accepted, in production) [[arXiv:2310.00153]](https://arxiv.org/abs/2310.00153).
+[17].	__K. Wu__, X. Zhu, X. Zhao, S.W. Anderson, X. Zhang, “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging”, _Research_, 7:0560 (2024) [[DOI: 10.34133/research.0560]](https://spj.science.org/doi/10.34133/research.0560).
 
 [16].	X. Zhu#, __K. Wu#__, S.W. Anderson, X. Zhang, “Metamaterial-Enabled Hybrid Receive Coil for Enhanced Magnetic Resonance Imaging Capabilities”, _Advanced Science_ 15(1), p.6589 (2024). [[DOI:10.1002/advs.202410907]](https://doi.org/10.1002/advs.202410907)
 
