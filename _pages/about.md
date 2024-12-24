@@ -22,7 +22,7 @@ Research Interests
   
 Recent News
 ======
-* December 2024: My first author paper “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging” was accepted by the Science partner journal SPJ [_Research_](https://arxiv.org/abs/2310.00153).
+* December 2024: My first author paper “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging” was published by the Science partner journal SPJ [_Research_](https://spj.science.org/doi/10.34133/research.0560).
   
 * November 2024: My co-first author paper “Metamaterial-enabled Hybrid Receive Coil for Enhanced Magnetic Resonance Imaging Capabilities” was published at [_Advanced Science_](https://onlinelibrary.wiley.com/doi/10.1002/advs.202410907).
 
