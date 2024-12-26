@@ -28,7 +28,7 @@ Professional Experience
 * Department of Mechanical Engineering, Boston University, Boston
   * 2018.09 - 2023.05: Research Assistant
 * Beijing Shengyu Tech. Co., Ltd., China
-  * 2016.07 - 2017.04: Hardware Engineer
+  * 2016.07 - 2017.06: Hardware Engineer
 * Department of Microelectronics and Nanoelectronics, Tsinghua University, China
   * 2013.09 - 2016.06: Research Assistant
   
