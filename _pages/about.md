@@ -22,6 +22,8 @@ Research Interests
   
 Recent News
 ======
+* January 2025: My first author paper “Electrically-shielded coil-enabled battery-free wireless sensing for underwater environmental monitoring” was accepted by [_Advanced Science_].
+
 * December 2024: My first author paper “Conformal Metamaterials with Active Tunability and Self-adaptivity for Magnetic Resonance Imaging” was published by the Science partner journal SPJ [_Research_](https://spj.science.org/doi/10.34133/research.0560).
   
 * November 2024: My co-first author paper “Metamaterial-enabled Hybrid Receive Coil for Enhanced Magnetic Resonance Imaging Capabilities” was published at [_Advanced Science_](https://onlinelibrary.wiley.com/doi/10.1002/advs.202410907).
