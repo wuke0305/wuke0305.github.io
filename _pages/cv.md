@@ -47,4 +47,8 @@ Teaching
   
 Service
 ======
-* Journal Reviewer for Dalton Transactions, Sensors, Micromachines, electronics, Energies, Photonics, etc.
+* Independent Journal Reviewer:
+_Engineering with Computers_, _Dalton Transactions_, _Scientific Reports_, _Sensors_, _Micromachines_, _electronics_, _Energies_, _Photonics_, etc.
+  
+* Invited Guest Editor: 
+_Applied Science_, special issue: New Challenges in Metamaterials: Latest Advances and Prospects, 2024.
