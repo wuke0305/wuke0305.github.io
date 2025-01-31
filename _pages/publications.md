@@ -16,8 +16,7 @@ More about my research can be found on [Google Scholar profile](https://scholar.
 
 2025
 ----
-[18].	__K. Wu#__, X. Zhu#, S.W. Anderson, X. Zhang, “	
-Electrically-shielded coil-enabled battery-free wireless sensing for underwater environmental monitoring”, _Advanced Science_ 2025, (accepted, in production).
+[18].	__K. Wu#__, X. Zhu#, S.W. Anderson, X. Zhang, “Electrically-shielded coil-enabled battery-free wireless sensing for underwater environmental monitoring”, _Advanced Science_ 12: 2414299 (2025). [[DOI: 10.1002/advs.202414299]](https://doi.org/10.1002/advs.202414299).
 
 2024
 ----
